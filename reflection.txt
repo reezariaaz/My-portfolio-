@@ -1,0 +1,5 @@
+why version control matters in software or data projects.
+
+Version control matters in software and data projects because it helps teams stay organized and avoid losing work. 
+It keeps track of every change made to the code or data who made it, when, and why so it’s easy to see how a project has evolved over time.
+If something breaks or goes wrong, you can simply roll back to a previous version instead of starting from scratch.
