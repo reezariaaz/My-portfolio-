@@ -1,13 +1,10 @@
 # My-portfolio-
+
+I’m a tech enthusiast with a passion for software engineering, where I love turning ideas into practical solutions. Outside the screen, you’ll find me on the soccer field, exploring new hiking trails, or diving into gaming worlds that spark creativity and strategy. I’m all about learning, building, and enjoying the journey
+
 My goal is to learn how to code using multiple languages.
 
-Folders 
-
-Notes 
-
-Images 
-https://private-user-images.githubusercontent.com/193893040/504038867-fc7d9ea2-f3e3-4800-b036-51745b7cfa84.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExMTUyODAsIm5iZiI6MTc2MTExNDk4MCwicGF0aCI6Ii8xOTM4OTMwNDAvNTA0MDM4ODY3LWZjN2Q5ZWEyLWYzZTMtNDgwMC1iMDM2LTUxNzQ1YjdjZmE4NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyMlQwNjM2MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNTBjNTkyYTVhZTFmN2YzNGNiMGQwNGVjOWE0NDc5M2ZhMmZmZWZkZDViOGU1ZWQzODcwOWYyNGRjMmQwZDg4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.weHrTwfKISdBfyJGhOGGYbV25vgracmVAqngja23wAI
-
-My Favourite Project 
-
-( Added placeholder for project section in Readme  )
+-Game Development
+-Fantasy Football & Simulation Games
+-Esports & Competitive Gaming
+-Adventure Photography & Drones
