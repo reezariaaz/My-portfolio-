@@ -1,0 +1,27 @@
+Starred-projecrts.txt
+
+Open source repositories 
+
+Starred repositories 
+
+1. Freecodecamp 
+https://github.com/freeCodeCamp/freeCodeCamp
+im interested in this one because i heard that it can help you with your coding 
+
+freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a donor-supported 501(c)(3) charity to help millions of busy adults transition into tech. Our community has already helped more than 100,000 people get their first developer job.
+
+
+
+2.Trail-Sense
+https://github.com/kylecorry31/Trail-Sense-Maps
+i enjoy hiking and the outdoors 
+An offline maps companion app for Trail Sense
+
+This app is very WIP
+
+
+3.football_analytics 
+https://github.com/eddwebster/football_analytics
+i really enjoy football
+
+The README of this repository is a resources guide of learning materials, data sources, libraries, papers, blogs, , etc., created by all those that have made contributions to the open source football analytics community.
