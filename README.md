@@ -1,31 +1,17 @@
-# My-portfolio-
-
 # Hi, I'm Reeza 
 
-Aspiring Software Engineer from South Africa 🇿🇦
+Aspiring Software Engineer passionate about learning, building, and continuously improving.
 
-I'm currently focused on learning Python, Flask, Git, and modern software development practices. I enjoy building projects that help me improve my problem-solving skills and gain hands-on experience with real-world development.
+Currently learning Python, Flask, Git, APIs, and software development fundamentals while building projects to strengthen my skills and grow my portfolio.
 
-## Currently Learning
+### Tech Stack
 
-* Python
-* Flask
-* Git & GitHub
-* APIs
-* Databases
+Python • Flask • HTML • CSS • Git • GitHub
 
-## Interests
+### Interests
 
-* Software Engineering
-* Game Development
-* Simulation Games
-* Esports & Competitive Gaming
+Software Engineering • Game Development • Esports 
 
-## Current Goal
+### Current Goal
 
-Build a strong portfolio of projects while developing the skills needed to become a professional software engineer.
-
-## Featured Project
-
-🚧 Dashboard Registry (Work in Progress)
-
+Become a skilled software engineer through consistent learning and project-based development.
