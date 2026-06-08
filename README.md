@@ -1,13 +1,31 @@
 # My-portfolio-
 
-I’m a tech enthusiast with a passion for software engineering. Outside the screen, you’ll find me on the soccer field, exploring new hiking trails, or diving into gaming. I’m all about learning, building, and enjoying the journey.
+# Hi, I'm Reeza 
 
-My goal is to learn how to code using multiple languages.
+Aspiring Software Engineer from South Africa 🇿🇦
 
--Game Development
--Fantasy Football & Simulation Games
--Esports & Competitive Gaming
--Adventure Photography & Drones
+I'm currently focused on learning Python, Flask, Git, and modern software development practices. I enjoy building projects that help me improve my problem-solving skills and gain hands-on experience with real-world development.
 
-My Favourite Project
-(          )
+## Currently Learning
+
+* Python
+* Flask
+* Git & GitHub
+* APIs
+* Databases
+
+## Interests
+
+* Software Engineering
+* Game Development
+* Simulation Games
+* Esports & Competitive Gaming
+
+## Current Goal
+
+Build a strong portfolio of projects while developing the skills needed to become a professional software engineer.
+
+## Featured Project
+
+🚧 Dashboard Registry (Work in Progress)
+
